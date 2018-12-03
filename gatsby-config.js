@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Repair Pro Las Vegas',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
